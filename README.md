@@ -1,4 +1,5 @@
 # Crud-Process-with-MySQL-Ajax-PDO
+#  Odd-even number finder application.
  Basic pHp crud process with mysql database
  
  All codes are written with explanation(comment) lines.
